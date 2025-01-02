@@ -5,3 +5,7 @@ This is a Simple Fully-Connected-Neural-Network for beginners, unused Pytorch, o
 You can see more detailed instructions of FNN code in FNN.pdf.
 
 (你可以在FNN.pdf这个文件中看到这个代码的更详细的说明。)
+
+This project contains a code file (FNN.py) and a PDF file (FNN.pdf). You only need to run the code file to use it.
+
+(本项目包含一个代码文件和一个PDF文件，使用时只需运行代码文件即可。)
